@@ -16,7 +16,7 @@ import re
 # ========== НАСТРОЙКА ==========
 
 # ← УКАЖИТЕ СВОЙ URL ЗДЕСЬ
-THREAD_URL = "https://forum.radmirv.com/threads/%D0%A3%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D1%8B%D0%B9-%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81-%D1%88%D1%82%D0%B0%D1%82%D0%B0-san-andreas.521631/"
+THREAD_URL = "https://forum.majestic-rp.ru/threads/ugolovnyi-kodeks-shtata-san-andreas.2247404/"
 
 
 # Ключевые слова для определения архивных/отмененных разделов
