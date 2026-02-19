@@ -1,1 +1,14 @@
-
+{
+  "laws": {
+    "files": [
+      "radmir-2.json"
+    ]
+  },
+  "rules": {
+    "files": [
+      "events.json",
+      "general.json",
+      "organizations.json"
+    ]
+  }
+}
