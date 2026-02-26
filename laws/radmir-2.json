@@ -10,7 +10,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.2",
@@ -18,7 +19,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.3",
@@ -26,7 +28,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.4",
@@ -34,7 +37,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.5",
@@ -42,7 +46,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.5.1 ч.1",
@@ -50,7 +55,8 @@
           "text": "ч1) Объект преступления (в отношении кого/чего было совершено преступление);",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.5.1 ч.2",
@@ -58,7 +64,8 @@
           "text": "ч2) Субъект преступления (тот, кто совершил преступление);",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.5.1 ч.3",
@@ -66,7 +73,8 @@
           "text": "ч3) Объективная сторона преступления (внешнее проявление преступного деяния: действие или бездействие, последствия, связь между действием/бездействием и последствием);",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.5.1 ч.4",
@@ -74,7 +82,8 @@
           "text": "ч4) Субъективная сторона (внутренняя сторона деяния: форма вины (умысел или неосторожность).",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "2.1",
@@ -82,7 +91,8 @@
           "text": "Исполнитель - лицо, непосредственно совершившее преступление, либо непосредственно участвовавшее в его совершении совместно с другими лицами [Соисполнителями]\nОрганизатор - организатором признается лицо, организовавшее совершение преступления или руководившее его исполнением\nПодстрекатель - лицо, склонившее другое лицо к совершению преступления путем уговора, подкупа, угрозы или другим способом, установленным законом.\nПособник - лицо, содействовавшее совершению преступления советами, указаниями, предоставлением информации, средств или орудий совершения преступления либо устранением препятствий.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "2.2",
@@ -90,7 +100,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "2.3",
@@ -98,7 +109,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "2.4",
@@ -106,7 +118,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3.1",
@@ -114,7 +127,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3.2",
@@ -122,7 +136,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3.3",
@@ -130,7 +145,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3.4",
@@ -138,7 +154,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3.5",
@@ -146,7 +163,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3.6",
@@ -154,7 +172,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3.7",
@@ -162,7 +181,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3.8",
@@ -170,7 +190,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3.9",
@@ -178,7 +199,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3.10",
@@ -186,7 +208,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3.11",
@@ -194,7 +217,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.1",
@@ -202,7 +226,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.1.1",
@@ -210,7 +235,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.2",
@@ -218,7 +244,8 @@
           "text": "Совершение преступления в результате физического или психического принуждения либо в силу материальной, служебной или иной зависимости;\nСовершение преступления при нарушении условий правомерности необходимой обороны, задержания лица, совершившего преступление, крайней необходимости, обоснованного риска, исполнения приказа или распоряжения;\nПротивоправность или аморальность поведения потерпевшего, явившегося поводом для преступления;\nЯвка с повинной, активное способствование раскрытию и расследованию преступления, изобличению и уголовному преследованию других соучастников преступления;\nСделка со следствием;\nОказание медицинской и иной помощи потерпевшему после совершения преступления, добровольное возмещение имущественного ущерба и морального вреда, причиненных в результате преступления, иные действия, направленные на заглаживание вреда, причиненного потерпевшему;\nИные обстоятельства.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.3",
@@ -226,7 +253,8 @@
           "text": "Совершение преступления в составе группы лиц;\nРецидив, то есть совершение лицом нового преступления после осуждения за предыдущее деяние в случае, если судимость не снята и не погашена в установленном законом порядке;\nСовершение преступления по мотивам политической, идеологической, расовой, национальной или религиозной ненависти, или вражды либо по мотивам ненависти или вражды в отношении какой-либо социальной группы;\nСовершение преступления из мести за правомерные действия других лиц, а также с целью скрыть другое преступление или облегчить его совершение;\nСовершение преступления в отношении лица или его близких в связи с осуществлением данным лицом служебной деятельности или выполнением общественного долга;\nСовершение преступления с особой жестокостью, садизмом, издевательством, а также мучениями для потерпевшего;\nСовершение преступления с использованием доверия, оказанного виновному в силу его служебного положения или договора;\nСовершение преступления с использованием форменной одежды или документов представителя власти;\nСовершение преступления в состоянии алкогольного или наркотического опьянения; совершение преступления использованием психического давления на потерпевшего.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.4",
@@ -234,7 +262,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.5",
@@ -242,7 +271,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.6",
@@ -250,7 +280,8 @@
           "text": "Штраф [Административный или уголовный штраф];\nДисциплинарная ответственность;\nЛишение лицензии на управление транспортными средствами;\nЛишение лицензии на хранение оружия;\nЛишение права занимать определенные должности или заниматься определенной деятельностью;\nУвольнение с государственной или военной службы, в том числе с лишением всех званий, наград и привилегий;\nЛишение свободы на определенный срок;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.6.1",
@@ -258,7 +289,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.6.2",
@@ -266,7 +298,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.7",
@@ -274,7 +307,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.8",
@@ -282,7 +316,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.8.1",
@@ -290,7 +325,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.8.2",
@@ -298,7 +334,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "5.1",
@@ -306,7 +343,8 @@
           "text": "Примечание I: Лицо, впервые совершившее преступление не может быть освобождено судом или прокуратурой от уголовной ответственности если нарушено более 4 статей Уголовного Кодекса.\nПримечание II: Лицо, с момента совершения преступления которого прошло больше 30-ти лет, может также быть освобождено от уголовной ответственности, согласно данной статье.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "5.2",
@@ -314,7 +352,8 @@
           "text": "Исключение I: При имеющихся основаниях период ответственности лица за совершенное правонарушение может быть увеличен с письменной санкцией судьи.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "5.3",
@@ -322,7 +361,8 @@
           "text": "Статьи помеченные \"*\" влекут за собой запрет на работу, службу в государственных учреждениях, организациях 7 лет ((7 дней)).\nСтатьи помеченные \"**\" влекут за собой запрет на работу, службу в государственных учреждениях, организациях 14 лет ((14 дней)).\nСтатьи помеченные \"***\" влекут за собой запрет на работу, службу в государственных учреждениях, организациях 30 лет ((30 дней)).",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "5.3.1",
@@ -330,7 +370,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "5.4",
@@ -338,7 +379,8 @@
           "text": "Исключение I: В Случаях предусмотренным законодательством оплата штрафа может происходить на представителей Министерства Юстиции, Судебной Власти.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "5.5",
@@ -346,7 +388,8 @@
           "text": "Примечание: Дисциплинарное взыскание в рамках настоящей статьи может включать выговор, временное отстранение от должности или иные меры, предусмотренные законодательством в лице трудового кодекса, за исключением увольнения, если иное не установлено соглашением сторон.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.1",
@@ -354,7 +397,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "1 уровень розыска",
-          "wanted_stars": 1
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.2",
@@ -362,7 +406,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.3",
@@ -370,7 +415,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.4",
@@ -378,7 +424,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "4 уровень розыска",
-          "wanted_stars": 4
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.5",
@@ -386,7 +433,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "4 уровень розыска",
-          "wanted_stars": 4
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.6",
@@ -394,7 +442,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.7",
@@ -402,7 +451,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.8",
@@ -410,7 +460,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.9",
@@ -418,7 +469,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "1 уровень розыска",
-          "wanted_stars": 1
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.10",
@@ -426,7 +478,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1.11",
@@ -434,7 +487,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "2.1",
@@ -442,7 +496,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "2.2",
@@ -450,7 +505,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "2.3",
@@ -458,7 +514,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "2.4",
@@ -466,7 +523,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3.1",
@@ -474,7 +532,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3.2",
@@ -482,7 +541,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "4 уровень розыска",
-          "wanted_stars": 4
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3.3",
@@ -490,7 +550,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3.4",
@@ -498,7 +559,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3.5",
@@ -506,7 +568,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3.6",
@@ -514,7 +577,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.1",
@@ -522,7 +586,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "1 уровень розыска",
-          "wanted_stars": 1
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.2",
@@ -530,7 +595,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.3",
@@ -538,7 +604,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.4",
@@ -546,7 +613,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.5",
@@ -554,7 +622,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.6",
@@ -562,7 +631,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "4 уровень розыска",
-          "wanted_stars": 4
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.7",
@@ -570,7 +640,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.8",
@@ -578,7 +649,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "1 уровень розыска",
-          "wanted_stars": 1
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.8.1",
@@ -586,7 +658,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.9",
@@ -594,7 +667,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.9.1",
@@ -602,7 +676,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "1 уровень розыска",
-          "wanted_stars": 1
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.9.2",
@@ -610,7 +685,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "1 уровень розыска",
-          "wanted_stars": 1
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4.10",
@@ -618,7 +694,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "5.1",
@@ -626,7 +703,8 @@
           "text": "Исключение: Территория Казино,б.у рынок, территория порта аукциона контейнеров.",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "5.2",
@@ -634,7 +712,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "4 уровень розыска",
-          "wanted_stars": 4
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "5.3",
@@ -642,7 +721,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "6.1",
@@ -650,7 +730,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "6.2",
@@ -658,7 +739,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "6.3",
@@ -666,7 +748,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "6.4",
@@ -674,7 +757,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "1 уровень розыска",
-          "wanted_stars": 1
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "6.5",
@@ -682,7 +766,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "6.6",
@@ -690,7 +775,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "6.7 ч.1",
@@ -698,7 +784,8 @@
           "text": "ч.1 Незаконное проникновение и/или нахождение на охраняемой территории в соответствие с законодательством Штата Сан-Андреас - 3 уровень розыска.",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "6.7 ч.2",
@@ -706,7 +793,8 @@
           "text": "ч.2* Деяние, предусмотренное частью 1 настоящей статьи, совершенные государственным служащем, или сотрудником Weazel News - 4 уровень розыска.",
           "jurisdiction": null,
           "penalty": "4 уровень розыска",
-          "wanted_stars": 4
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "6.8",
@@ -714,7 +802,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "6.9",
@@ -722,7 +811,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "6.10",
@@ -730,7 +820,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "4 уровень розыска",
-          "wanted_stars": 4
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "6.11",
@@ -738,7 +829,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "7.1",
@@ -746,7 +838,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "7.2",
@@ -754,7 +847,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "7.3",
@@ -762,7 +856,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "7.4",
@@ -770,7 +865,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "7.5",
@@ -778,7 +874,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "7.6",
@@ -786,7 +883,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "7.7",
@@ -794,7 +892,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "7.8",
@@ -802,7 +901,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "8.1",
@@ -810,7 +910,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "8.2",
@@ -818,7 +919,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "8.3",
@@ -826,7 +928,8 @@
           "text": "Примечание: Если засекреченные лица показывают свое удостоверение данное действие не наказывается статьей 8.3.",
           "jurisdiction": null,
           "penalty": "4 уровень розыска",
-          "wanted_stars": 4
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "9.1",
@@ -834,7 +937,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "9.1.1 ч.1",
@@ -842,7 +946,8 @@
           "text": "Часть 1. Использование должностным лицом своих полномочий вопреки интересам службы, если это деяние повлекло существенное нарушение прав и законных интересов граждан или организаций. - 5 уровень розыска.",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "9.1.1 ч.2",
@@ -850,7 +955,8 @@
           "text": "Часть 2. Использование должностным лицом своих полномочий для вмешательства или воспрепятствования процессу задержания или непосредственно аресту, а также процессу разбирательства. - 5 уровень розыска.",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "9.2",
@@ -858,7 +964,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "9.3",
@@ -866,7 +973,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "9.4",
@@ -874,7 +982,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "4 уровень розыска",
-          "wanted_stars": 4
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "9.5",
@@ -882,7 +991,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "4 уровень розыска",
-          "wanted_stars": 4
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "9.6",
@@ -890,7 +1000,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "10.1",
@@ -898,7 +1009,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "10.2",
@@ -906,7 +1018,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "10.3",
@@ -914,7 +1027,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "10.4",
@@ -922,7 +1036,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "10.5",
@@ -930,7 +1045,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "10.6",
@@ -938,7 +1054,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "10.7",
@@ -946,7 +1063,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "10.8",
@@ -954,7 +1072,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "10.9",
@@ -962,7 +1081,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "10.10",
@@ -970,7 +1090,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "10.11",
@@ -978,7 +1099,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "10.12",
@@ -986,7 +1108,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "11.1",
@@ -994,7 +1117,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "11.1.1",
@@ -1002,7 +1126,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "11.2",
@@ -1010,7 +1135,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "11.3",
@@ -1018,7 +1144,8 @@
           "text": "Примечание: Оскорбление - унижение чести и достоинства человека, выраженное в неприличной или иной, противоречащей общепринятым нормам морали и нравственности, форме. Оскорбление может быть нанесено в виде высказывания (устно, письменно) или в виде действия (плевок, неприличный жест).",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "11.3.1",
@@ -1026,7 +1153,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "11.4",
@@ -1034,7 +1162,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "5 уровень розыска",
-          "wanted_stars": 5
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "11.5",
@@ -1042,7 +1171,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "11.6",
@@ -1050,7 +1180,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "11.7",
@@ -1058,7 +1189,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "11.8",
@@ -1066,7 +1198,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "1 уровень розыска",
-          "wanted_stars": 1
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "11.9",
@@ -1074,7 +1207,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "12.1",
@@ -1082,7 +1216,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "2 уровень розыска",
-          "wanted_stars": 2
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "12.2",
@@ -1090,7 +1225,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "12.3",
@@ -1098,7 +1234,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "3 уровень розыска",
-          "wanted_stars": 3
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "12.4",
@@ -1106,7 +1243,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "4 уровень розыска",
-          "wanted_stars": 4
+          "wanted_stars": null,
+          "note": null
         }
       ]
     },
@@ -1514,7 +1652,7 @@
           "title": "Нарушение Трудового кодекса Руководителем организации, влечет за собой наложение административного штрафа суммой 300.000$",
           "text": "​",
           "jurisdiction": null,
-          "penalty": "штраф 300.000$",
+          "penalty": "штраф 300.000$",  
           "wanted_stars": null,
           "note": null
         }
@@ -1529,7 +1667,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "Отказ от действий - 20.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "2",
@@ -1537,7 +1676,8 @@
           "text": null,
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "2.1",
@@ -1545,7 +1685,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3",
@@ -1553,7 +1694,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "Штраф в размере: 40.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4 ч.1",
@@ -1561,7 +1703,8 @@
           "text": "невыполнении требования уступить дорогу во время перестроения (подрезание);",
           "jurisdiction": null,
           "penalty": "Штраф в размере: До 45.000$ и/или лишение лицензии на управление транспортными средствами.",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4 ч.2",
@@ -1569,7 +1712,8 @@
           "text": "несоблюдении безопасной дистанции;",
           "jurisdiction": null,
           "penalty": "Штраф в размере: До 45.000$ и/или лишение лицензии на управление транспортными средствами.",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4 ч.3",
@@ -1577,7 +1721,8 @@
           "text": "резком торможении, если такое торможение не требуется для предотвращения аварии;",
           "jurisdiction": null,
           "penalty": "Штраф в размере: До 45.000$ и/или лишение лицензии на управление транспортными средствами.",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4 ч.4",
@@ -1585,7 +1730,8 @@
           "text": "препятствовании обгону;",
           "jurisdiction": null,
           "penalty": "Штраф в размере: До 45.000$ и/или лишение лицензии на управление транспортными средствами.",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4 ч.5",
@@ -1593,7 +1739,8 @@
           "text": "резких перестроениях при этом подрезая других машин;",
           "jurisdiction": null,
           "penalty": "Штраф в размере: До 45.000$ и/или лишение лицензии на управление транспортными средствами.",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4 ч.6",
@@ -1601,7 +1748,8 @@
           "text": "Дрифте на общественных дорогах.",
           "jurisdiction": null,
           "penalty": "Штраф в размере: До 45.000$ и/или лишение лицензии на управление транспортными средствами.",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "5",
@@ -1609,15 +1757,17 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "6",
-          "title": "При приближении транспортного средства с включенными проблесковым маячком синего или красного цвета и сиреной водители обязаны уступить дорогу для обеспечения беспрепятственного проезда указанного транспортного средства. \"прижаться вправо и снизить скорость вплоть до полной остановки.",
+          "title": "При приближении транспортного средства с включенными проблесковым маячком синего или красного цвета и сиреной водители обязаны уступить дорогу для обеспечения беспрепятственного проезда указанного транспортного средства.\nприжаться вправо и снизить скорость вплоть до полной остановки.",
           "text": "",
           "jurisdiction": null,
           "penalty": "Отказ от действий - штраф в размере: 15.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "7",
@@ -1625,7 +1775,8 @@
           "text": null,
           "jurisdiction": null,
           "penalty": "Отказ от действий - штраф в размере 10.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "8",
@@ -1633,7 +1784,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": " Отказ от действий - штраф в размере: 15.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "9",
@@ -1641,7 +1793,8 @@
           "text": "Примечание: Разрешено перебегать дорогу вне пешеходного перехода в случае отсутствия транспортных средств на проезжей части.",
           "jurisdiction": null,
           "penalty": "Отказ от действий - штраф в размере: 10.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "10",
@@ -1649,7 +1802,8 @@
           "text": "Примечание: Пешеходы на электро скейтбордах должны переходить дорогу по пешеходному переходу спешившись.",
           "jurisdiction": null,
           "penalty": "Штраф в размере: 15.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "11",
@@ -1657,7 +1811,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "12",
@@ -1665,7 +1820,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "Отказ от действий - штраф в размере: 5.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "13",
@@ -1673,7 +1829,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "Отказ от действий - штраф в размере: 15.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "14",
@@ -1681,7 +1838,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "Штраф в размере: 10.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "15",
@@ -1689,7 +1847,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "За неправомерные действия - штраф в размере: до 10.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "16 ч.1",
@@ -1697,7 +1856,8 @@
           "text": "На пешеходных переходах",
           "jurisdiction": null,
           "penalty": "За неправомерные действия - штраф в размере: до 20.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "16 ч.2",
@@ -1705,7 +1865,8 @@
           "text": "В тоннелях",
           "jurisdiction": null,
           "penalty": "За неправомерные действия - штраф в размере: до 20.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "16 ч.3",
@@ -1713,7 +1874,8 @@
           "text": "На мостах",
           "jurisdiction": null,
           "penalty": "За неправомерные действия - штраф в размере: до 20.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "16 ч.4",
@@ -1721,7 +1883,8 @@
           "text": "На железнодорожных переездах",
           "jurisdiction": null,
           "penalty": "За неправомерные действия - штраф в размере: до 20.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "16 ч.5",
@@ -1729,7 +1892,8 @@
           "text": "В местах с видимостью менее 100 метров.",
           "jurisdiction": null,
           "penalty": "За неправомерные действия - штраф в размере: до 20.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "17",
@@ -1737,7 +1901,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "18",
@@ -1745,7 +1910,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "За неправомерные действия - штраф в размере: до 30.000$ и/или лишение лицензии на управление транспортными средствами.",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "19",
@@ -1753,7 +1919,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": "За неправомерные действия - штраф в размере: до 30.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "20 ч.1",
@@ -1761,7 +1928,8 @@
           "text": "параллельно красному бордюру (Исключения: государственный транспорт с включенным проблесковым маячком)\nПримечание: Остановка и парковка разрешаются на правой стороне дороги, кроме дорог с односторонним движением и дорог с двумя полосами движения (по 1 на каждое направление), так же брошенный транспорт посреди дороги не облагается штрафом.",
           "jurisdiction": null,
           "penalty": "За несоблюдение - штраф в размере: 10.000$.",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "20 ч.2",
@@ -1769,7 +1937,8 @@
           "text": "на пешеходных переходах и тротуаре\nПримечание: Остановка и парковка разрешаются на правой стороне дороги, кроме дорог с односторонним движением и дорог с двумя полосами движения (по 1 на каждое направление), так же брошенный транспорт посреди дороги не облагается штрафом.",
           "jurisdiction": null,
           "penalty": "За несоблюдение - штраф в размере: 10.000$.",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "20 ч.3",
@@ -1777,7 +1946,8 @@
           "text": "на железнодорожных переездах, трамвайных путях, мостах, в тоннелях\nПримечание: Остановка и парковка разрешаются на правой стороне дороги, кроме дорог с односторонним движением и дорог с двумя полосами движения (по 1 на каждое направление), так же брошенный транспорт посреди дороги не облагается штрафом.",
           "jurisdiction": null,
           "penalty": "За несоблюдение - штраф в размере: 10.000$.",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "20 ч.4",
@@ -1785,7 +1955,8 @@
           "text": "на крутых и опасных поворотах\nПримечание: Остановка и парковка разрешаются на правой стороне дороги, кроме дорог с односторонним движением и дорог с двумя полосами движения (по 1 на каждое направление), так же брошенный транспорт посреди дороги не облагается штрафом.",
           "jurisdiction": null,
           "penalty": "За несоблюдение - штраф в размере: 10.000$.",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "20 ч.5",
@@ -1793,7 +1964,8 @@
           "text": "на перекрестках\nПримечание: Остановка и парковка разрешаются на правой стороне дороги, кроме дорог с односторонним движением и дорог с двумя полосами движения (по 1 на каждое направление), так же брошенный транспорт посреди дороги не облагается штрафом.",
           "jurisdiction": null,
           "penalty": "За несоблюдение - штраф в размере: 10.000$.",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "20 ч.6",
@@ -1801,7 +1973,8 @@
           "text": "посреди проезжей части\nПримечание: Остановка и парковка разрешаются на правой стороне дороги, кроме дорог с односторонним движением и дорог с двумя полосами движения (по 1 на каждое направление), так же брошенный транспорт посреди дороги не облагается штрафом.",
           "jurisdiction": null,
           "penalty": "За несоблюдение - штраф в размере: 10.000$.",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "21 ч.1",
@@ -1809,7 +1982,8 @@
           "text": "параллельно красному бордюру (Исключения: государственный транспорт)",
           "jurisdiction": null,
           "penalty": "За неправомерные действия - штраф в размере: до 20.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "21 ч.2",
@@ -1817,7 +1991,8 @@
           "text": "на пешеходных переходах и тротуаре",
           "jurisdiction": null,
           "penalty": "За неправомерные действия - штраф в размере: до 20.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "21 ч.3",
@@ -1825,7 +2000,8 @@
           "text": "на железнодорожных переездах, трамвайных путях, мостах, в тоннелях",
           "jurisdiction": null,
           "penalty": "За неправомерные действия - штраф в размере: до 20.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "21 ч.4",
@@ -1833,7 +2009,8 @@
           "text": "на крутых и опасных поворотах",
           "jurisdiction": null,
           "penalty": "За неправомерные действия - штраф в размере: до 20.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "21 ч.5",
@@ -1841,7 +2018,8 @@
           "text": "на перекрестках",
           "jurisdiction": null,
           "penalty": "За неправомерные действия - штраф в размере: до 20.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "21 ч.6",
@@ -1849,7 +2027,8 @@
           "text": "на служебных стоянках государственных учреждений",
           "jurisdiction": null,
           "penalty": "За неправомерные действия - штраф в размере: до 20.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "22",
@@ -1857,7 +2036,8 @@
           "text": "",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "23",
@@ -1865,7 +2045,8 @@
           "text": null,
           "jurisdiction": null,
           "penalty": "За неправомерные действия - штраф в размере: до 50.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "24",
@@ -1873,7 +2054,8 @@
           "text": "Обгон можно совершать пересекая ТОЛЬКО пунктирную разметку на дороге.",
           "jurisdiction": null,
           "penalty": "За неправомерные действия - штраф в размере: до 40.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "25",
@@ -1881,7 +2063,8 @@
           "text": "В тоже время белая сплошная линия нанесенная в пределах проезжей части, обозначает границы полос движения в опасных местах на дороге, такую разметку пересекать запрещено.",
           "jurisdiction": null,
           "penalty": " За неправомерные действия - штраф в размере: до 20.000$",
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         }
       ]
     },
@@ -1894,7 +2077,8 @@
           "text": "Уголовно - Процессуальный Кодекс – нормативный правовой акт, устанавливающий процессуальный порядок последовательности действий, правил рассмотрения, разрешения гражданских и уголовных дел сотрудниками правоохранительных органов и судами в штате San-Andreas.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "1 ч.2",
@@ -1902,7 +2086,8 @@
           "text": "Задачами Уголовно - Процессуального Кодекса являются правильное и своевременное рассмотрение и разрешение гражданских и уголовных дел в целях защиты нарушенных или оспариваемых прав, свобод и законных интересов граждан, организаций, прав и интересов штата San Andreas, других лиц, являющихся субъектами гражданских, уголовных или иных правоотношений. Процессуальный Кодекс должен способствовать укреплению законности и правопорядка, предупреждению правонарушений, формированию уважительного отношения к закону и суду, мирному урегулированию споров.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "2 ч.1",
@@ -1910,7 +2095,8 @@
           "text": "Производство процессуальных действий на территории штата San Andreas независимо от места совершения преступления ведется в соответствии с настоящим Кодексом.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "2 ч.2",
@@ -1918,7 +2104,8 @@
           "text": "Сроки давности привлечения к ответственности за правонарушения и преступления регулируются конституцией штата San Andreas.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3 ч.1",
@@ -1926,7 +2113,8 @@
           "text": "Защиты прав и законных интересов лиц и организаций, потерпевших от преступлений;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "3 ч.2",
@@ -1934,7 +2122,8 @@
           "text": "Защиты личности от незаконного и необоснованного обвинения, осуждения, ограничения ее прав и свобод.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4 ч.1",
@@ -1942,7 +2131,8 @@
           "text": "Правосудие по гражданским, уголовным и иным делам осуществляется на началах равенства перед законом и судом всех граждан независимо от пола, расы, национальности, языка, происхождения, имущественного и должностного положения, места жительства, отношения к религии, убеждений, принадлежности к общественным объединениям и других обстоятельств, а также всех организаций независимо от их организационно-правовой формы, формы собственности, места нахождения, подчиненности и других обстоятельств.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "4 ч.2",
@@ -1950,7 +2140,8 @@
           "text": "Обратная сила уголовного закона,вновь введённые в уголовное законодательство изменения, устраняющий преступность деяния, смягчающий наказание или иным образом улучшающий положение лица, совершившего преступление, имеет обратную силу, то есть распространяется на лиц, совершивших соответствующие деяния до вступления такого закона в силу, в том числе на лиц, отбывающих наказание или отбывших наказание, но имеющих судимость. Уголовный закон, устанавливающий преступность деяния, усиливающий наказание или иным образом ухудшающий положение лица, обратной силы не имеет.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "6 ч.1",
@@ -1958,7 +2149,8 @@
           "text": "Обвиняемый считается невиновным, пока его виновность в совершении преступления не будет доказана в установленным законом порядке.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "6 ч.2",
@@ -1966,7 +2158,8 @@
           "text": "Подозреваемый или обвиняемый не обязан доказывать свою невиновность. Бремя доказывания обвинения и опровержения доводов, приводимых в защиту подозреваемого или обвиняемого, лежит на стороне обвинения.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "6 ч.3",
@@ -1974,7 +2167,8 @@
           "text": "Все сомнения о виновности обвиняемого, которые не могут быть устранены в порядке, установленном настоящим Кодексом, толкуются в пользу обвиняемого.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "6 ч.4",
@@ -1982,7 +2176,8 @@
           "text": "Обвинительный приговор не может быть основан на предположениях.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "7 ч.1",
@@ -1990,7 +2185,8 @@
           "text": "Каждая сторона должна доказать те обстоятельства, на которые она ссылается, как на основания своих требований и возражений, если иное не предусмотрено законом.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "7 ч.2",
@@ -1998,7 +2194,8 @@
           "text": "В случае необходимости, суд определяет, какие обстоятельства имеют значение для дела.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "7 ч.3",
@@ -2006,7 +2203,8 @@
           "text": "Неоспоримыми доказательствами виновности или невиновности гражданина Штата Сан-Андреас является запись Боди-Камеры сотрудников государственных структур или записи мобильных телефонов обвиняемого, потерпевшего, свидетеля(ей) в момент совершения преступления.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "7 ч.4",
@@ -2014,7 +2212,8 @@
           "text": "Сотрудники всех правоохранительных структур Штата, и SANG обязаны предоставлять записи со своих Боди-Камер зафиксировавшее само преступление Судьям Штата, сотрудникам прокуратуры, адвокатам Штата, своему руководству.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "8 ч.1",
@@ -2022,7 +2221,8 @@
           "text": "Доказательства, полученные с нарушением требований настоящего Кодекса, являются недопустимыми. Недопустимые доказательства не имеют юридической силы и не могут быть положены в основу обвинения, а также использоваться для доказывания любого из обстоятельств.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "8 ч.2",
@@ -2030,7 +2230,8 @@
           "text": "К недопустимым доказательствам относятся:\nа) любая информация, полученная от задержанного в ходе допроса до того, как ему были зачитаны его права, даже если есть звуко или видеозапись где обвиняемый дает показания против себя.\nб) показания потерпевшего, свидетеля, основанные на догадке, предположении, слухе, а также показания свидетеля, который не может указать источник своей осведомленности;\nв) улики добытые незаконным путем, когда были нарушены положения действующих нормативно-правовых актов (изъятие орудия без ордера на обыск, изъятие незаконных вещей у лица с неприкосновенностью без судебного решения о снятии неприкосновенности и т.д.)\nг) обрезанные или неполные фрагменты видеофиксации состава преступления, проведенных процессуальных действий со стороны обвинения или со стороны защиты.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "9 ч.1",
@@ -2038,7 +2239,8 @@
           "text": "Никто не может быть задержан по подозрению в совершении преступления или заключен под стражу при отсутствии на то законных оснований, предусмотренных законодательством.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "9 ч.2",
@@ -2046,7 +2248,8 @@
           "text": "Суд, прокурор, сотрудники правоохранительных органов Штата обязаны немедленно освободить всякого незаконно задержанного или содержащегося под стражей свыше срока, предусмотренного Уголовным кодексом Штата.\nГлава II. Основания, правила и последовательность действий при задержании сотрудниками правоохранительных органов, граждан и сотрудников государственных организаций штата",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "10 ч.1",
@@ -2054,7 +2257,8 @@
           "text": "Задержание лица при ведении следствия производится в следующей последовательности:\nа) Надеть наручники/стяжки на подозреваемого;\nб) Предъявить подозреваемому служебное удостоверение, бейдж, служебный жетон, нашивку или иной опознавательный знак сотрудника;\nв) Объяснить задержанному суть статей, нарушенных гражданином, в которых он подозревается сотрудником правоохранительных органов.\nг) Уполномоченный сотрудник обязан передать/доставить задержанного сотрудникам правоохранительных органов в соответствии с настоящим Кодексом.\nд) Зачитать подозреваемому его Конституционные права (Правило Миранды*);\nе) Провести идентификацию личности задержанного и проверку на принадлежность его к государственным органам;\nж) На усмотрение сотрудника, проводящего задержание, провести первичный обыск;\nПримечание: Первичный обыск производится с целью идентификации колющих, режущих орудий, огнестрельного оружия, наркотических веществ, взрывчатых элементов. Первичный обыск позволяет изымать огнестрельное оружие, колющие, режущие орудия, наркотические вещества, взрывчатые элементы, если это может представлять опасность для сотрудников или окружающих.\nз) Доставить задержанного в здание Полицейского Департамента г.Лос-Сантоса или Департамента Шерифа о.Блейн.\nи) Реализовать право задержанного на предоставление услуг адвоката. В случае если задержанный требует адвоката, сотрудник обязан запросить соответствующего в рацию департамента.\nПримечание: В случае, если в Департамент поступил ответ от Правительства об отсутствии свободных адвокатов или невозможности прибытия представителя адвокатуры, процессуальные действия продолжаются. В случае если адвокат принял вызов, процессуальный час приостанавливается до его прибытия. Если адвокат не прибыл в течение 7 минут, процедура задержания продолжается, и право на адвоката считается реализованным.\nПримечание: Если в течение 5 минут с момента обращения не последовало ответа от Правительства - процедура задержания продолжается, и право на адвоката считается реализованным.\nк) При запросе телефонного звонка, предоставить возможность подозреваемому совершить один телефонный звонок продолжительностью не более 5 минут.\nл) При необходимости, провести допрос подозреваемого;\nм) Произвести арест подозреваемого согласно Главе VI настоящего Кодекса;\nПримечание: В пунктах а), б), в), д) ч. 1 настоящей статьи, на усмотрение сотрудника, проводящего задержание, разрешено несущественное изменение последовательности.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "11 ч.1",
@@ -2062,7 +2266,8 @@
           "text": "Задержание лица при наличии ордера прокуратуры или решения суда производится в следующей последовательности:\nа) Надеть наручники на подозреваемого.\nб) Предъявить подозреваемому служебное удостоверение, бейдж, служебный жетон, нашивку или иной опознавательный знак сотрудника;\nв) Провести идентификацию личности задержанного, проверку на принадлежность задержанного к государственным органам и сверить данные задержанного с ордером на предмет соответствия;\nг) Зачитать подозреваемому его конституционные права (Правило Миранды*).\nд) Ознакомить задержанного с ордером прокуратуры/решением суда о его аресте.\nе) На усмотрение сотрудника, проводящего задержание, провести первичный обыск;\nж) Доставить задержанного в здание Полицейского Департамента г.Лос-Сантоса или Департамента Шерифа о.Блейн.\nз) Произвести арест задержанного, согласно Главе VI настоящего Кодекса.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "12 ч.1",
@@ -2070,7 +2275,8 @@
           "text": "Задержание лица, находящегося в государственной структуре, при ведении следствия производится в следующей последовательности:\nа) Надеть наручники/стяжки на подозреваемого;\nб) Предъявить подозреваемому служебное удостоверение, бейдж, служебный жетон, нашивку или иной опознавательный знак сотрудника;\nв) Объяснить задержанному суть статей, нарушенных гражданином, в которых он подозревается сотрудником правоохранительных органов.\nг) Уполномоченный сотрудник обязан передать/доставить задержанного сотрудникам правоохранительных органов в соответствии с настоящим Кодексом.\nд) Зачитать подозреваемому его Конституционные права (Правило Миранды*);\nе) Доставить задержанного в здание Полицейского Департамента г.Лос-Сантоса или Департамента Шерифа о.Блейн.\nж) Реализовать право задержанного на предоставление услуг адвоката. В случае если задержанный требует адвоката, сотрудник обязан запросить соответствующего в рацию департамента.\nПримечание: В случае, если в Департамент поступил ответ от Правительства об отсутствии свободных адвокатов или невозможности прибытия представителя адвокатуры, процессуальные действия продолжаются. В случае если адвокат принял вызов, процессуальный час приостанавливается до его прибытия. Если адвокат не прибыл в течение 7 минут, процедура задержания продолжается, и право на адвоката считается реализованным.\nПримечание: Если в течение 5 минут с момента обращения не последовало ответа от Правительства - процедура задержания продолжается, и право на адвоката считается реализованным.\nз) Вызвать в рацию департамента сотрудника прокуратуры или суда, адвоката, руководство государственной организации, в которой состоит задержанный, с объяснением причин задержания сотрудника и предоставлением полной записи видео - и аудиофиксации совершения сотрудником преступления и процессуальных действий сотрудников, проводивших задержание;\nПримечание: Время ожидания лиц, указанных в настоящей статье, не включается в общее время задержания.\nПримечание: Прокуратура и Суд выносят окончательное заключение, обязательное для исполнения старшим составом. В случае несогласия с данным решением старший состав вправе обжаловать его в судебном порядке.\nПримечание: В случае, если в рации департамента в течение 5 минут не получен ответ от прокурора или суда, а также в случае, если прокурор или судья в течение 5 минут после ответа не прибыл на место задержания задержанный подлежит освобождению, а видео - и аудиофиксация совершения им преступления и всех процессуальных действий в отношении него направляются сотрудником, проводившим задержание, в прокуратуру либо суд в течение 24 часов с момента освобождения задержанного.\nи) После разбирательств, которые предусмотрены ч. 2 и ч. 3 настоящей статьи, по требованию Прокурора, ведущего следствие, отпустить задержанного, или произвести арест задержанного, согласно Главе VI настоящего Кодекса.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "12 ч.2",
@@ -2078,7 +2284,8 @@
           "text": "По приезду руководства задержанного и сотрудника Прокуратуры, сотрудником, осуществившим задержание, должны быть представлены доказательства совершения правонарушения задержанным сотруднику Прокуратуры и руководству задержанного. Сотрудник Прокуратуры дает оценку правомерности задержания, устанавливает наличие противоправного деяния в действии (или противоправного бездействия) задержанного, а также избирает меру наказания по отношению к действиям задержанного. В случае, если сотрудник Прокуратуры не признает наличия противоправного деяния в действии (или противоправного бездействии) задержанного или не согласен с решением сотрудника, осуществляющего задержание, задержанный сотрудник подлежит освобождению. Сотрудник, проводивший задержание, имеет право подать обращение в Прокуратуру.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "12 ч.3",
@@ -2086,7 +2293,8 @@
           "text": "В случае, если сотрудник Прокуратуры признает наличие преступного деяния в действии (или преступном бездействии) задержанного и если в качестве наказания определено лишение свободы, руководство задержанного обязано прекратить с задержанным трудовые отношения.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "15 ч.1",
@@ -2094,7 +2302,8 @@
           "text": "Правило Миранды: \"Вы имеете право хранить молчание. Всё, что вы скажете, может и будет использовано против Вас. Вы имеете право на один телефонный звонок, длинной не более 5 минут. Также Вы имеете право на адвоката. Если вам необходим адвокат, он будет для Вас запрошен. Вы понимаете свои права?\".",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "16 ч.1",
@@ -2102,7 +2311,8 @@
           "text": "Основанием производства обыска является наличие неопровержимых доказательств, что в каком-либо месте или у какого-либо лица могут находиться орудия, оборудование или иные средства совершения преступления, предметы, документы и ценности, которые могут иметь значение для уголовного дела.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "16 ч.2",
@@ -2110,7 +2320,8 @@
           "text": "Проведение личного обыска, обыска, движимого или недвижимого имущества граждан штата, задержаний/арестов, осуществляется при условии заранее выписанного Прокуратурой штата Сан Андреас соответствующего ордера при наличии неопровержимых доказательства в том, что данное лицо совершило преступление, если иное не установлено действующим законодательством штата;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "16 ч.3",
@@ -2118,7 +2329,8 @@
           "text": "Граждане штата могут быть подвергнуты обыску на месте без наличия Ордера прокуратуры, в случаях:\nпри проверке на контрольно-пропускных пунктах;\nпри совершении преступлений, предусмотренных действующим Уголовным кодексом в присутствии сотрудников правоохранительных органов Штата, военнослужащих SANG;\nпри наличии неопровержимых доказательств в совершении преступлений, предусмотренных действующим Уголовным кодексом;\nесли подозреваемый оказал сопротивление при задержании, неподчинение законного требования должностного лица при задержании, попытке бегства или угрозы применения насилия в отношении должностного лица;\nпри наличии доказательной базы использования человеком наркотических/психотропных или иных неизвестных веществ;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "16 ч.4",
@@ -2126,7 +2338,8 @@
           "text": "До начала обыска сотрудник правоохранительных органов предлагает добровольно выдать подлежащие изъятию запрещённые предметы, документы и ценности, которые могут иметь значение для уголовного дела.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "16 ч.5",
@@ -2134,7 +2347,8 @@
           "text": "При производстве обыска сотрудниками правоохранительных органов могут вскрываться любые помещения, транспортные средства если владелец отказывается добровольно их открыть.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "16 ч.6",
@@ -2142,7 +2356,8 @@
           "text": "Сотрудник правоохранительных органов вправе запретить лицам, присутствующим на месте проведения обыска, покидать его, а также общаться друг с другом или иными лицами до окончания проведения обыска.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "16 ч.7",
@@ -2150,7 +2365,8 @@
           "text": "При проведении личного обыска, обыска движимого или недвижимого имущества граждан штата, задержаний/арестов, сотрудники соответствующих уполномоченных органов обязаны предоставить «Ордер», выписанный Прокуратурой штата гражданину, для обоснования законности этих действий;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "16 ч.8",
@@ -2158,7 +2374,8 @@
           "text": "Проведение личного обыска, обыска движимого имущества, задержаний/арестов без наличия соответствующего Ордера, выписанного Прокуратурой штата, граждан штата могут проводиться в случаях:\nв случае если гражданин застигнут на месте совершения преступления сотрудниками правоохранительных органов штата, военнослужащими SANG или при наличии неопровержимых доказательств в совершении преступлений предусмотренных действующим законодательством;\nв случае если подозреваемый оказал сопротивление при задержании или неподчинение законным требованиям должностного лица при задержании, попытке бегства или угрозы применения насилия в отношении должностного лица;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "17 ч.1",
@@ -2166,7 +2383,8 @@
           "text": "В случае отказа гражданина от добровольного обыска, никакие последствия или процессуальные действия в отношении данного гражданина не проводятся.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "18 ч.1",
@@ -2174,7 +2392,8 @@
           "text": "Отсутствуют основания применения к нему меры пресечения в виде заключения под стражу согласно действующему законодательству;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "18 ч.2",
@@ -2182,7 +2401,8 @@
           "text": "По истечении 40 минут с момента задержания, подозреваемый подлежит освобождению, если в его отношении не была избрана мера пресечения в виде заключения под стражу. В исключительных случаях Генеральная Прокуратура штата, прокуроры могут продлить время фактического задержания подозреваемого но не более чем на 30 минут с момента фактического задержания лица. Если решение о назначении наказания не принято-гражданин подлежит немедленному освобождению.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "18 ч.3",
@@ -2190,7 +2410,8 @@
           "text": "В случаях нарушений основных прав и свобод человека и гражданина, предусмотренных Конституцией штата San Andreas и статьей 23 Уголовно - Процессуального кодекса штата San Andreas.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "18 ч.4",
@@ -2198,7 +2419,8 @@
           "text": "В случае отсутствия у сотрудника правоохранительных органов, военнослужащего SANG проводившего задержание неоспоримых доказательств (записи его боди камеры момента совершения задержанным преступления) если иное не предусмотрено действующим законодательством штата;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "18 ч.5",
@@ -2206,7 +2428,8 @@
           "text": "В случаях указанных в Главе I Статьи 8 уголовно - процессуального кодекса;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "19 ч.1",
@@ -2214,7 +2437,8 @@
           "text": "При задержании подозреваемому разъясняется суть статей, нарушенного гражданином закона, которые инкриминируются сотрудником в отношении задержанного.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "19 ч.2",
@@ -2222,7 +2446,8 @@
           "text": "Задержанный гражданин имеет право на один телефонный звонок в присутствии сотрудника правоохранительных органов;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "20 ч.1",
@@ -2230,7 +2455,8 @@
           "text": "Правом досрочного освобождения на территории штата обладают государственные адвокаты;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "20 ч.2",
@@ -2238,7 +2464,8 @@
           "text": "Согласно Конституции штата, выпуск под залог предусмотрен для всех его граждан за исключением преступлений исключающий досрочное освобождение.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "20 ч.3",
@@ -2246,7 +2473,8 @@
           "text": "Сумма залога для досрочного освобождения устанавливается действующим законодательством Штата.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "21 ч.1",
@@ -2254,7 +2482,8 @@
           "text": "Настоящим Кодексом предусмотрено два принципа ведения расследования, которые должны соблюдаться правоприменителем:\nа) Адекватность - сотрудник обязан действовать профессионально, не превышая свои должностные полномочия, и максимально точно разобраться в деле прежде чем делать умозаключения;\nб) Безотлагательность - сотрудник обязан отреагировать на правонарушение и начать действовать без необоснованных промедлений.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "22 ч.1",
@@ -2262,7 +2491,8 @@
           "text": "Гражданин вправе обжаловать действия правоохранительных органов, подав жалобу на сотрудника руководителю соответствующего ведомства. Руководитель вправе применить дисциплинарное взыскание в отношении такого сотрудника либо возбудить в его отношении уголовное преследование, помимо этого, все решения, принятые таким сотрудником, подлежат полной реабилитации.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "22 ч.2",
@@ -2270,7 +2500,8 @@
           "text": "Гражданин вправе обратиться с жалобой на сотрудника правоохранительного органа, военнослужащего SANG в Прокуратуру штата, после чего Прокуратурой штата осуществляется прокурорская проверка, по результатам которой выносится мотивированное решение в отношении сотрудника ведомства.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "22 ч.3",
@@ -2278,7 +2509,8 @@
           "text": "В случае несогласия с решением Прокуратуры штата граждане вправе обратиться в суды различной инстанции штата Сан Андреас.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "23 ч.1",
@@ -2286,7 +2518,8 @@
           "text": "Задержанный имеет право в процессе задержания ознакомиться со своими правами (Правило Миранды);",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "23 ч.2",
@@ -2294,7 +2527,8 @@
           "text": "Задержанный имеет право хранить молчание, а в случае отказа от этого права, все сказанное задержанным будет использовано против него;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "23 ч.3",
@@ -2302,7 +2536,8 @@
           "text": "Задержанному должна быть предоставлена квалифицированная помощь в защите своих прав и интересов со стороны государственного адвоката, если иное не предусмотрено действующим законодательством;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "23 ч.4",
@@ -2310,7 +2545,8 @@
           "text": "Задержанный имеет право использовать общее время в 5 минут на совершение телефонного звонка в порядке, определяемом настоящим законом;\nПримечание: Время, в течение которого задержанный пользуется правом на телефонный звонок, не включается в общее время задержания.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "23 ч.5",
@@ -2318,7 +2554,8 @@
           "text": "Задержанный имеет право знать суть статей кодексов или законов, за нарушение которых он был задержан;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "23 ч.6",
@@ -2326,7 +2563,8 @@
           "text": "Задержанный имеет право на беспристрастное и объективное расследование в установленные настоящим Кодексом сроки.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "23 ч.7",
@@ -2334,7 +2572,8 @@
           "text": "Задержанный имеет право на уважительное отношение со стороны правоохранительных органов и военнослужащих SANG.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "23 ч.8",
@@ -2342,7 +2581,8 @@
           "text": "Задержанный имеет право на конфиденциальную беседу с адвокатом в допросной комнате длительностью не более 5 минут. В случае, если гражданин решает воспользоваться своим правом, все лица, находящееся в допросной за исключением задержанного и его адвоката обязаны покинуть допросную комнату до завершения конфиденциального разговора или до истечения 5 минут.\nПримечание: Время конфиденциального разговора не включается в общее время задержания.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "24 ч.1",
@@ -2350,7 +2590,8 @@
           "text": "Лицо может быть задержано по подозрению в совершении правонарушения, за которое может быть назначено наказание в виде лишения свободы, предусмотренных законом.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "24 ч.2",
@@ -2358,7 +2599,8 @@
           "text": "Лицо может быть задержано при наличии хотя бы одного из следующих оснований:\nа) Когда лицо застигнуто в момент совершения правонарушения или непосредственно после его совершения, государственным служащим;\nб) Когда на подозреваемом или его одежде, при нем или в его жилище будут обнаружены явные следы правонарушения;\nв) Когда 3 и более свидетелей указывают на данное лицо как на совершившее правонарушения, а также если хотя бы у 1 из свидетелей есть видеофиксация нарушения;\nг) Когда есть фото или видео фиксация совершенного правонарушения этим лицом;\nд) Если имеется ордер, изданный в установленном законом порядке, указывающий на необходимость задержания этого лица;\nж) Когда имеется ориентировка на транспортное средство или данное лицо;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "26 ч.1",
@@ -2366,7 +2608,8 @@
           "text": "В случае необходимости военнослужащие SANG, сотрудники правоохранительных органов могут передавать задержанного гражданина за преступления или правонарушения, предусмотренные действующим законодательством, как между собой внутри госорганизации, так сотрудникам других силовых структур штата;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "26 ч.2",
@@ -2374,7 +2617,8 @@
           "text": "Передача задержанного может осуществляться только после исполнения сотрудником правоохранительных органов условий задержания указанных в ст. 10.2, 11.2, 12.3 настоящего Кодекса при этом последовательность задержания должна быть выполнена в полном объёме;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "26 ч.3",
@@ -2382,7 +2626,8 @@
           "text": "При передаче задержанного передающая сторона обязана передать вместе с задержанным полную запись видео- и аудиофиксации момента совершения задержанным совершённого преступления, проведение сотрудником, или военнослужащим SANG самого задержания и видео- и аудиофиксацию проведения действий описанных в ст. 10, 11, 12 настоящего Кодекса;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "26 ч.4",
@@ -2390,7 +2635,8 @@
           "text": "При передаче задержанного передающая сторона обязана передать вместе с задержанным изъятые при первичном обыске запрещенные законом предметы и вещества, орудия преступления;",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "26 ч.5",
@@ -2398,7 +2644,8 @@
           "text": "Весь процесс передачи задержанного сотрудниками силовых структур штата обязаны фиксироваться на боди камеру, храниться 72 часа и обязаны быть представлены по требованию своего руководства, руководителю государственной организации которой был передан задержанный, сотрудникам прокуратуры, государственному адвокату представляющему интересы задержанного, судам различных инстанций.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "28 ч.1",
@@ -2406,7 +2653,8 @@
           "text": "Задержание - это мера кратковременного (на срок до 1 часа) лишения человека права на свободу, осуществляемая уполномоченными сотрудниками государственных организаций или сотрудниками WN. Задержание не считается мерой наказания, оно носит исключительно внесудебный характер и в совокупности с другими предусмотренными законом средствами и методами позволяет сотрудникам правоохранительных органов собрать необходимые сведения (достаточную доказательственную базу) для решения вопроса о возможности или невозможности применения к лицу какой-либо ответственности.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "29 ч.1",
@@ -2414,7 +2662,8 @@
           "text": "Помимо сотрудников, осуществляющих задержание, и задержанного, в допросной комнате во время задержания в порядке статей 10, 11, 12 настоящего Кодекса могут находиться следующие лица:\nне более одного представителя руководства сотрудника, осуществляющего задержание;\nне более одного адвоката в случае, если он запрошен задержанным;\nне более двух сотрудников прокуратуры;\nне более одного представителя руководства задержанного, если задержанный является государственным служащим;\nне более одного судьи в случае, если он был вызван в рацию департамента.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "29 ч.2",
@@ -2422,7 +2671,8 @@
           "text": "Лица, указанные в статье 29 ч1. настоящего Кодекса, вправе проходить на территории, где осуществляется задержание.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "29 ч.3",
@@ -2430,7 +2680,8 @@
           "text": "По требованию сотрудника, осуществляющего задержание, лица, не указанные в статье 29 ч1. настоящего Кодекса, обязаны покинуть допросную комнату.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "29 ч.4",
@@ -2438,7 +2689,8 @@
           "text": "В случае, если прокурором участвующем в процессе разбирательства на задержании будет установлено, что задержанное лицо подлежит освобождению в соответствии с настоящим Кодексом, он имеет право вмешаться в процесс задержания и потребовать освободить задержанного.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "29 ч.5",
@@ -2446,7 +2698,8 @@
           "text": "Сотрудник, осуществляющий задержание, вправе потребовать от лиц, не указанных в статье 29 ч1. настоящего Кодекса, отдалиться от места проведения задержания на 21 фут (7 метров).",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "61 ч.1",
@@ -2454,7 +2707,8 @@
           "text": "Арест – это разновидность уголовного наказания, при котором лицо лишается права на свободу на срок от 1 до 60 лет. Аресту подвергаются лица, совершившие преступление, предусмотренное частью III Уголовного Кодекса – статьями региональной, федеральной, финансовой или военной юрисдикции.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "61 ч.2",
@@ -2462,7 +2716,8 @@
           "text": "В случае, если гражданину вменяется несколько преступлений, то наказанием в виде лишения свободы служит совокупность наказаний, предназначенных за каждое преступление.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         },
         {
           "code": "62 ч.1",
@@ -2470,7 +2725,8 @@
           "text": "Порядок ареста проводится в следующем порядке:\nа) Совершить вторичный обыск;\nб) Изъять все нелегальные предметы у гражданина, подвергнутого аресту;\nд) Поместить его в КПЗ на срок, установленный уголовным кодексом.\nПримечание: Вторичный обыск производится с целью изъятия всех колющих, режущих орудий, огнестрельного оружия, наркотических веществ, взрывчатых элементов.",
           "jurisdiction": null,
           "penalty": null,
-          "wanted_stars": null
+          "wanted_stars": null,
+          "note": null
         }
       ]
     }
